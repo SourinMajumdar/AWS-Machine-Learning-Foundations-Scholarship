@@ -7,7 +7,7 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 
 ✨| Udacity AWS Machine Learning Foundations Nanodegree Program | Status
 --- | ---| ---
-1 | Welcome to the AWS Machine Learning Foundations Course | &#9744;
+1 | Welcome to the AWS Machine Learning Foundations Course | &#9745;
 2 | Introduction to Machine Learning |  &#9744;
 3 | Machine Learning with AWS |  &#9744;
 4 | Software Engineering Practices, part 1 |  &#9744;
